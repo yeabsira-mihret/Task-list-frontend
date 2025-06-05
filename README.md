@@ -46,5 +46,3 @@ npm start
 - Bonus: Added filtering of tasks.
 
 ---
-
-Good luck with your internship application!
