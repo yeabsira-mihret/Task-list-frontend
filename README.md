@@ -15,7 +15,7 @@ This is a simple React app to manage tasks with the following features:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/yeabsira-mihret/Task-list-frontend>
 cd frontend
 ```
 
